@@ -95,8 +95,8 @@ export const TranslateBox = () => {
 
             <Animation />
 
-            <div className="tagLine">
-                <p id="madeByMohit">Made with ❤️ by Mohit Sehrawat</p>
+            <div className="tagline">
+                <p id="madeByJack">             YOOSA FBI BOY JACK and ukraine!</p>
             </div>
         </>
     );
